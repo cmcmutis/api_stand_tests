@@ -5,18 +5,15 @@ Automatizar pruebas funcionales sobre una interfaz web que interactúa con APIs 
 
 ## 🧰 Tecnologías usadas
 - Selenium WebDriver (Java)
-- IntelliJ IDEA / Eclipse
 - ChromeDriver
-- JUnit / TestNG (opcional)
 - GitHub para control de versiones
 
 ## 🚀 Cómo usarlo
 1. Clona el repositorio:  
    `git clone https://github.com/cmcmutis/api_stand_tests.git`
-2. Abre el proyecto en tu IDE (IntelliJ o Eclipse)
-3. Asegúrate de tener configurado el `chromedriver` en tu máquina
-4. Ejecuta los scripts de prueba desde la clase principal
-5. Revisa los resultados en consola y en los logs generados
+2. Asegúrate de tener configurado el `chromedriver` en tu máquina
+3. Ejecuta los scripts de prueba desde la clase principal
+4. Revisa los resultados en consola y en los logs generados
 
 ## 📊 Resultados
 - Automatización de flujos básicos de validación de API
